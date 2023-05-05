@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "hi this is prod server";
 ?>
